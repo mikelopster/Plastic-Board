@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 95822dc6ee0c7447699d5a5a8550fa3c
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 L Finger0
+    100004: Bip01 L Finger01
+    100006: Bip01 L Finger02
+    100008: Bip01 L Finger0Nub
+    100010: Bip01 L Finger1
+    100012: Bip01 L Finger11
+    100014: Bip01 L Finger12
+    100016: Bip01 L Finger1Nub
+    100018: Bip01 L Finger2
+    100020: Bip01 L Finger21
+    100022: Bip01 L Finger22
+    100024: Bip01 L Finger2Nub
+    100026: Bip01 L Finger3
+    100028: Bip01 L Finger31
+    100030: Bip01 L Finger32
+    100032: Bip01 L Finger3Nub
+    100034: Bip01 L Finger4
+    100036: Bip01 L Finger41
+    100038: Bip01 L Finger42
+    100040: Bip01 L Finger4Nub
+    100042: Bip01 L Hand
+    100044: g0_02
+    100046: //RootNode
+    100048: Bip01 R Finger0
+    100050: Bip01 R Finger01
+    100052: Bip01 R Finger02
+    100054: Bip01 R Finger0Nub
+    100056: Bip01 R Finger1
+    100058: Bip01 R Finger11
+    100060: Bip01 R Finger12
+    100062: Bip01 R Finger1Nub
+    100064: Bip01 R Finger2
+    100066: Bip01 R Finger21
+    100068: Bip01 R Finger22
+    100070: Bip01 R Finger2Nub
+    100072: Bip01 R Finger3
+    100074: Bip01 R Finger31
+    100076: Bip01 R Finger32
+    100078: Bip01 R Finger3Nub
+    100080: Bip01 R Finger4
+    100082: Bip01 R Finger41
+    100084: Bip01 R Finger42
+    100086: Bip01 R Finger4Nub
+    100088: Bip01 R Hand
+    100090: g0_01
+    400000: Bip01
+    400002: Bip01 L Finger0
+    400004: Bip01 L Finger01
+    400006: Bip01 L Finger02
+    400008: Bip01 L Finger0Nub
+    400010: Bip01 L Finger1
+    400012: Bip01 L Finger11
+    400014: Bip01 L Finger12
+    400016: Bip01 L Finger1Nub
+    400018: Bip01 L Finger2
+    400020: Bip01 L Finger21
+    400022: Bip01 L Finger22
+    400024: Bip01 L Finger2Nub
+    400026: Bip01 L Finger3
+    400028: Bip01 L Finger31
+    400030: Bip01 L Finger32
+    400032: Bip01 L Finger3Nub
+    400034: Bip01 L Finger4
+    400036: Bip01 L Finger41
+    400038: Bip01 L Finger42
+    400040: Bip01 L Finger4Nub
+    400042: Bip01 L Hand
+    400044: g0_02
+    400046: //RootNode
+    400048: Bip01 R Finger0
+    400050: Bip01 R Finger01
+    400052: Bip01 R Finger02
+    400054: Bip01 R Finger0Nub
+    400056: Bip01 R Finger1
+    400058: Bip01 R Finger11
+    400060: Bip01 R Finger12
+    400062: Bip01 R Finger1Nub
+    400064: Bip01 R Finger2
+    400066: Bip01 R Finger21
+    400068: Bip01 R Finger22
+    400070: Bip01 R Finger2Nub
+    400072: Bip01 R Finger3
+    400074: Bip01 R Finger31
+    400076: Bip01 R Finger32
+    400078: Bip01 R Finger3Nub
+    400080: Bip01 R Finger4
+    400082: Bip01 R Finger41
+    400084: Bip01 R Finger42
+    400086: Bip01 R Finger4Nub
+    400088: Bip01 R Hand
+    400090: g0_01
+    2300000: g0_01
+    3300000: g0_01
+    4300000: g0_02
+    4300002: g0_01
+    9500000: //RootNode
+    13700000: g0_02
+    13700002: g0_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

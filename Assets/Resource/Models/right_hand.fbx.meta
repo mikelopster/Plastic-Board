@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 8de93061448994e7bbd0377f6199d9dd
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 R Finger0
+    100004: Bip01 R Finger01
+    100006: Bip01 R Finger02
+    100008: Bip01 R Finger0Nub
+    100010: Bip01 R Finger1
+    100012: Bip01 R Finger11
+    100014: Bip01 R Finger12
+    100016: Bip01 R Finger1Nub
+    100018: Bip01 R Finger2
+    100020: Bip01 R Finger21
+    100022: Bip01 R Finger22
+    100024: Bip01 R Finger2Nub
+    100026: Bip01 R Finger3
+    100028: Bip01 R Finger31
+    100030: Bip01 R Finger32
+    100032: Bip01 R Finger3Nub
+    100034: Bip01 R Finger4
+    100036: Bip01 R Finger41
+    100038: Bip01 R Finger42
+    100040: Bip01 R Finger4Nub
+    100042: Bip01 R Hand
+    100044: g0_01
+    100046: //RootNode
+    400000: Bip01
+    400002: Bip01 R Finger0
+    400004: Bip01 R Finger01
+    400006: Bip01 R Finger02
+    400008: Bip01 R Finger0Nub
+    400010: Bip01 R Finger1
+    400012: Bip01 R Finger11
+    400014: Bip01 R Finger12
+    400016: Bip01 R Finger1Nub
+    400018: Bip01 R Finger2
+    400020: Bip01 R Finger21
+    400022: Bip01 R Finger22
+    400024: Bip01 R Finger2Nub
+    400026: Bip01 R Finger3
+    400028: Bip01 R Finger31
+    400030: Bip01 R Finger32
+    400032: Bip01 R Finger3Nub
+    400034: Bip01 R Finger4
+    400036: Bip01 R Finger41
+    400038: Bip01 R Finger42
+    400040: Bip01 R Finger4Nub
+    400042: Bip01 R Hand
+    400044: g0_01
+    400046: //RootNode
+    4300000: g0_01
+    9500000: //RootNode
+    13700000: g0_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
