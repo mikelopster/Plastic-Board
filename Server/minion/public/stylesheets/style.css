@@ -1,0 +1,26 @@
+body {
+  padding: 56px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+input {
+  font-family: inherit;
+  font-size: 0.8em;
+}
+
+section {
+  margin-top: 48px;
+}
+
+section:first-child {
+  margin-top: 0;
+}
+
+form > div {
+  margin-top: 16px;
+}
+
+form > div > input {
+  padding: 2px;
+  margin-right: 16px;
+}

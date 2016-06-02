@@ -1,0 +1,26 @@
+extends layout
+
+block content
+  section
+    h1 Minion
+    p Welcome to Minion
+    hr
+
+  section
+    h3 Upload new blend
+    form(action='/blends/upload', method='post', enctype='multipart/form-data')
+      div
+        input(type='text', name='name', placeholder='Blend name')
+        input(type='text', name='display', placeholder='Display name')
+        input(type='text', name='obj', placeholder='Object name')
+      div
+        input(type='file', name='files', multiple)
+        input(type='submit')
+    while message = flash.shift()
+      p= message.message
+
+  section
+    h3 All existing blends
+    ul
+      each blend in blends
+        li= blend.display
